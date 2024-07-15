@@ -8,8 +8,8 @@ const Home = () => (
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://via.placeholder.com/1500x500/3498db/ffffff?text=Hydrogen+Power+Generation"
-          alt="First slide"
+          src={require('../assets/images/hydrogen_power_plant.webp')}
+          alt="Hydrogen Power Generation"
         />
         <Carousel.Caption>
           <h3>Hydrogen Power Generation</h3>
@@ -19,8 +19,8 @@ const Home = () => (
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://via.placeholder.com/1500x500/2ecc71/ffffff?text=Clean+Energy"
-          alt="Second slide"
+          src={require('../assets/images/clean_energy_landscape.webp')}
+          alt="Clean Energy"
         />
         <Carousel.Caption>
           <h3>Clean Energy</h3>
@@ -30,8 +30,8 @@ const Home = () => (
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://via.placeholder.com/1500x500/f39c12/ffffff?text=Future+Prospects"
-          alt="Third slide"
+          src={require('../assets/images/futuristic_city_hydrogen.webp')}
+          alt="Future Prospects"
         />
         <Carousel.Caption>
           <h3>Future Prospects</h3>
