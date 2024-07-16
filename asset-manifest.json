@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae0446a3.css",
-    "main.js": "/static/js/main.a4b4b4a2.js",
-    "static/media/futuristic_city_hydrogen.webp": "/static/media/futuristic_city_hydrogen.0dc708780e795b71b294.webp",
-    "static/media/clean_energy_landscape.webp": "/static/media/clean_energy_landscape.a929327b88875e34cd90.webp",
-    "static/media/hydrogen_power_plant.webp": "/static/media/hydrogen_power_plant.8cbaae49a3c0d8a5a935.webp",
-    "index.html": "/index.html",
-    "main.ae0446a3.css.map": "/static/css/main.ae0446a3.css.map",
-    "main.a4b4b4a2.js.map": "/static/js/main.a4b4b4a2.js.map"
+    "main.css": "/codespaces-react/static/css/main.ae0446a3.css",
+    "main.js": "/codespaces-react/static/js/main.4a054e64.js",
+    "static/media/futuristic_city_hydrogen.webp": "/codespaces-react/static/media/futuristic_city_hydrogen.0dc708780e795b71b294.webp",
+    "static/media/clean_energy_landscape.webp": "/codespaces-react/static/media/clean_energy_landscape.a929327b88875e34cd90.webp",
+    "static/media/hydrogen_power_plant.webp": "/codespaces-react/static/media/hydrogen_power_plant.8cbaae49a3c0d8a5a935.webp",
+    "index.html": "/codespaces-react/index.html",
+    "main.ae0446a3.css.map": "/codespaces-react/static/css/main.ae0446a3.css.map",
+    "main.4a054e64.js.map": "/codespaces-react/static/js/main.4a054e64.js.map"
   },
   "entrypoints": [
     "static/css/main.ae0446a3.css",
-    "static/js/main.a4b4b4a2.js"
+    "static/js/main.4a054e64.js"
   ]
 }
