@@ -2,7 +2,7 @@
   "name": "hydrogen-power",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://manishankar-tulabandu.github.io/codespaces-react",
+  "homepage": "./",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "chart.js": "^4.4.3",
