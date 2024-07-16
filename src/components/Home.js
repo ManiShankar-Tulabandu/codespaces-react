@@ -13,7 +13,7 @@ const Home = () => (
         />
         <Carousel.Caption>
           <h3>Hydrogen Power Generation</h3>
-          <p>Exploring the future of clean energy.</p>
+          <p>Harnessing hydrogen for a cleaner future.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -24,7 +24,7 @@ const Home = () => (
         />
         <Carousel.Caption>
           <h3>Clean Energy</h3>
-          <p>Hydrogen as a sustainable fuel source.</p>
+          <p>Leading the way in sustainable energy solutions.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -35,7 +35,7 @@ const Home = () => (
         />
         <Carousel.Caption>
           <h3>Future Prospects</h3>
-          <p>The potential of hydrogen in various industries.</p>
+          <p>Paving the path for hydrogen in tomorrow's industries.</p>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
@@ -64,7 +64,7 @@ const Home = () => (
       <div className="container">
         <h3>Challenges</h3>
         <p className="text-justify">
-          Hydrogen presents several challenges, including storage, transportation, and production costs. These challenges must be addressed to make hydrogen a viable alternative to traditional energy sources.
+          Hydrogen presents several challenges, including storage, transportation, and production costs. These challenges must be addressed to make hydrogen a viable alternative to traditional energy sources. More information about challenges can be <a href='/challenges'>find here</a>
         </p>
       </div>
     </section>
